@@ -38,7 +38,6 @@ list.add("howdy", "ho", "world", "!");
 list.remove(1);
 
 list.array[0] = "hello";
-array_resize(list.array, 2);
 ```
 
 </td>
