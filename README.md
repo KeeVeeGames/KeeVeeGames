@@ -11,10 +11,6 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 - 📫 Reach me for contract jobs or questions: support@keevee.games
 
 #### GameMaker Libraries:
-| Name | Description |
-|------|-------------|
-| [![ArrayList.gml](https://keevee.games/wp-content/uploads/2020/09/banner_300px-1-150x150.png)](https://github.com/KeeVeeGames/ArrayList.gml) | List struct based on array (GC\-friendly) for GameMaker. Accessor, list functions (add, remove, insert, sort, reverse, etc.) and reference as array. |
-| [![foreach.gml](https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png)](https://github.com/KeeVeeGames/quicksort.gml) | foreach\(\) loop implementation for GameMaker for arrays, ds\_lists, ds\_maps, ds\_stacks, ds\_queues, ds\_priorities and structs                         |
 
 <table>
 <thead>
@@ -26,11 +22,11 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 <tbody>
 <tr>
 <td>
-<a href="https://github.com/KeeVeeGames/ArrayList.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-1-150x150.png" alt="ArrayList.gml"></a>
+<a href="https://github.com/KeeVeeGames/ArrayList.gml" style="line-height: 1;"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-1-150x150.png" alt="ArrayList.gml"></a>
 </td>
 <td>
 
-List struct based on array (GC\-friendly) for GameMaker. Accessor, list functions (add, remove, insert, sort, reverse, etc.) and reference as array.
+List struct based on array (GC-friendly) for GameMaker. Accessor, list functions (add, remove, insert, sort, reverse, etc.) and reference as array.
 
 </td>
 </tr>
