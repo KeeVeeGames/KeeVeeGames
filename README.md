@@ -9,11 +9,11 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 - 👨‍💻 Currently working on GooWee.gml [<sup>?</sup>](#! "Advanced and clean GUI framework inspired by WPF and Unity GUI") and GmProto [<sup>?</sup>](#! "Protobuf / flatbuffers-esque serialization protocol")
 - 🕹 Lead Programmer of [@CraftisLegacy](https://twitter.com/CraftisLegacy)
 - 📦 Assets I made: on [Marketplace](https://marketplace.yoyogames.com/publishers/1227/keevee-games) and on [Itch.io](https://musnik.itch.io/)
-- 💾 Other languages I know and work with: C++, C#, Java, Javascript, and others
+- 💾 Other languages I know and work with: C++, C#, Java, Javascript, etc.
 - 📖 Visit my [Portfolio](https://forum.yoyogames.com/index.php?threads/keevee-games-gml-programming-and-game-development-services.22402/) and [Showcase](https://twitter.com/i/events/1137457904213286913)
 - 📫 Reach me for contract jobs or questions: support@keevee.games
 
-#### Selected Repos:
+### Selected Repos:
 
 <table>
 <thead>
