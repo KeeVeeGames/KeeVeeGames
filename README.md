@@ -4,13 +4,16 @@
 
 I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker developer located in Russia. I do videogames, assets for other GML programmers, open-source libraries/examples and contract freelance work!
 
-- 👨‍💻 Currently working on GooWee.gml [[?]](#! "Advanced and clean GUI framework inspired by WPF and Unity GUI") and GmProto [[?]](#! "Protobuf / flatbuffers-esque serialization protocol")
+<img align="right" alt="GIF" src="http://keevee.games/wp-content/uploads/2019/06/keeveelogo.gif" width="320"/>
+
+- 👨‍💻 Currently working on GooWee.gml [<sup>?</sup>](#! "Advanced and clean GUI framework inspired by WPF and Unity GUI") and GmProto [<sup>?</sup>](#! "Protobuf / flatbuffers-esque serialization protocol")
 - 🕹 Lead Programmer of [@CraftisLegacy](https://twitter.com/CraftisLegacy)
-- 📦 Assets I made: [Marketplace](https://marketplace.yoyogames.com/publishers/1227/keevee-games) and [Itch.io](https://musnik.itch.io/)
+- 📦 Assets I made: on [Marketplace](https://marketplace.yoyogames.com/publishers/1227/keevee-games) and on [Itch.io](https://musnik.itch.io/)
 - 💾 Other languages I know and work with: C++, C#, Java, Javascript, and others
+- 📖 Visit my [Portfolio](https://forum.yoyogames.com/index.php?threads/keevee-games-gml-programming-and-game-development-services.22402/) and [Showcase](https://twitter.com/i/events/1137457904213286913)
 - 📫 Reach me for contract jobs or questions: support@keevee.games
 
-#### GameMaker Libraries:
+#### Selected Repos:
 
 <table>
 <thead>
