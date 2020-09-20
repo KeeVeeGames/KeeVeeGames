@@ -45,7 +45,7 @@ array_resize(list.array, 2);
 </tr>
 <tr></tr><tr>
 <td>
-<a href="https://github.com/KeeVeeGames/foreach.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml" width="223px"></a>
+<a href="https://github.com/KeeVeeGames/quicksort.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml" width="223px"></a>
 </td>
 <td>
 
@@ -58,22 +58,15 @@ foreach(collection as (item) {
 ```
 
 </td>
+<tr></tr><tr>
+<td>
+<a href="https://github.com/KeeVeeGames/foreach.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/logo_github-150x150.png" alt="foreach.gml" width="223px"></a>
+</td>
+<td>
+
+array_sort function using modified quicksort algorithm, for GameMaker Studio 2.2 and 2.3 versions.
+
+</td>
 </tr>
 </tbody>
 </table>
-  
-
-<!--
-**KeeVeeGames/KeeVeeGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
