@@ -49,6 +49,9 @@ array_resize(list.array, 2);
 foreach() loop implementation for GameMaker for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs. Example:
 
 <table>
+<tbody>
+<tr>
+<td>
 
 ```js
 foreach(collection as (item) {
@@ -56,6 +59,9 @@ foreach(collection as (item) {
 });
 ```
 
+</td>
+</tr>
+</tbody>
 </table>
 
 </td>
