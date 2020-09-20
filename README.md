@@ -40,7 +40,7 @@ array_resize(list.array, 2);
 
 </td>
 </tr>
-<tr>
+<tr></tr><tr>
 <td>
 <a href="https://github.com/KeeVeeGames/foreach.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml" width="223px"></a>
 </td>
@@ -48,21 +48,11 @@ array_resize(list.array, 2);
 
 foreach() loop implementation for GameMaker for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs. Example:
 
-<table>
-<tbody>
-<tr>
-<td>
-
 ```js
 foreach(collection as (item) {
     // do things with item
 });
 ```
-
-</td>
-</tr>
-</tbody>
-</table>
 
 </td>
 </tr>
