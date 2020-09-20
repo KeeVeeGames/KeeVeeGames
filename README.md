@@ -4,7 +4,7 @@
 
 I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker developer located in Russia. I do videogames, assets for other GML programmers, open-source libraries/examples and contract freelance work!
 
-<img align="right" alt="GIF" src="http://keevee.games/wp-content/uploads/2019/06/keeveelogo.gif" width="320"/>
+<img align="right" alt="GIF" src="http://keevee.games/wp-content/uploads/2019/06/keeveelogo.gif" width="33%"/>
 
 - 👨‍💻 Currently working on GooWee.gml [<sup>?</sup>](#! "Advanced and clean GUI framework inspired by WPF and Unity GUI") and GmProto [<sup>?</sup>](#! "Protobuf / flatbuffers-esque serialization protocol")
 - 🕹 Lead Programmer of [@CraftisLegacy](https://twitter.com/CraftisLegacy)
