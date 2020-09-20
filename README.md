@@ -22,7 +22,7 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 <tbody>
 <tr>
 <td>
-<a href="https://github.com/KeeVeeGames/ArrayList.gml" style="line-height: 1;"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-1-150x150.png" alt="ArrayList.gml" width="222px"></a>
+<a href="https://github.com/KeeVeeGames/ArrayList.gml" style="line-height: 1;"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-1-150x150.png" alt="ArrayList.gml" width="223px"></a>
 </td>
 <td>
 
@@ -42,7 +42,7 @@ array_resize(list.array, 2);
 </tr>
 <tr>
 <td>
-<a href="https://github.com/KeeVeeGames/quicksort.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml" width="222px"></a>
+<a href="https://github.com/KeeVeeGames/quicksort.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml" width="223px"></a>
 </td>
 <td>
 
