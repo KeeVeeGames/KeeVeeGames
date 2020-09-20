@@ -48,7 +48,7 @@ list.array[0] = "hello";
 </td>
 <td>
 
-foreach() loop implementation on GameMaker Studio 2.3+ for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs. Example:
+foreach() loop implementation on GameMaker Studio 2.3+ for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs. Syntax is pretty neat and straightforward:
 
 ```js
 foreach(collection as (item) {
