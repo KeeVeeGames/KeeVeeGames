@@ -17,18 +17,16 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 | [![foreach.gml](https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png)](https://github.com/KeeVeeGames/quicksort.gml) | foreach\(\) loop implementation for GameMaker for arrays, ds\_lists, ds\_maps, ds\_stacks, ds\_queues, ds\_priorities and structs                         |
 
 <table>
-<thread>
+<thead>
 <tr>
 <th>Name</th>
 <th>Description</th>
 </tr>
-</thread>
+</thead>
 <tbody>
 <tr>
 <td>
-
-[![ArrayList.gml](https://keevee.games/wp-content/uploads/2020/09/banner_300px-1-150x150.png)](https://github.com/KeeVeeGames/ArrayList.gml)
-
+<a href="https://github.com/KeeVeeGames/ArrayList.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-1-150x150.png" alt="ArrayList.gml"></a>
 </td>
 <td>
 
@@ -38,9 +36,7 @@ List struct based on array (GC\-friendly) for GameMaker. Accessor, list function
 </tr>
 <tr>
 <td>
-
-[![foreach.gml](https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png)](https://github.com/KeeVeeGames/quicksort.gml)
-
+<a href="https://github.com/KeeVeeGames/quicksort.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml"></a>
 </td>
 <td>
 
