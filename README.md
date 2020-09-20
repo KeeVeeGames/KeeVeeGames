@@ -29,7 +29,7 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 </td>
 <td>
 
-List struct based on array (GC-friendly) for GameMaker 2.3. Accessor, list functions (add, remove, insert, sort, reverse, etc.) and reference as array. Example:
+List struct based on array (GC-friendly) for GameMaker Studio 2.3+. Accessor, list functions (add, remove, insert, sort, reverse, etc.) and reference as array. Example:
 
 ```js
 list = new ArrayList();
@@ -48,7 +48,7 @@ list.array[0] = "hello";
 </td>
 <td>
 
-foreach() loop implementation on GameMaker 2.3 for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs. Example:
+foreach() loop implementation on GameMaker Studio 2.3+ for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs. Example:
 
 ```js
 foreach(collection as (item) {
