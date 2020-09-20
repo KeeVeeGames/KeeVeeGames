@@ -22,21 +22,37 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 <tbody>
 <tr>
 <td>
-<a href="https://github.com/KeeVeeGames/ArrayList.gml" style="line-height: 1;"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-1-150x150.png" alt="ArrayList.gml"></a>
+<a href="https://github.com/KeeVeeGames/ArrayList.gml" style="line-height: 1;"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-1-150x150.png" alt="ArrayList.gml" width="150px"></a>
 </td>
 <td>
 
-List struct based on array (GC-friendly) for GameMaker. Accessor, list functions (add, remove, insert, sort, reverse, etc.) and reference as array.
+List struct based on array (GC-friendly) for GameMaker. Accessor, list functions (add, remove, insert, sort, reverse, etc.) and reference as array. Example:
+
+```js
+list = new ArrayList();
+
+list.add("howdy", "ho", "world", "!");
+list.remove(1);
+
+list.array[0] = "hello";
+array_resize(list.array, 2);
+```
 
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://github.com/KeeVeeGames/quicksort.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml"></a>
+<a href="https://github.com/KeeVeeGames/quicksort.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml" width="150px"></a>
 </td>
 <td>
 
-foreach() loop implementation for GameMaker for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
+foreach() loop implementation for GameMaker for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs. Example:
+
+```js
+foreach(collection as (item) {
+    // do things with item
+});
+```
 
 </td>
 </tr>
