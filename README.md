@@ -44,7 +44,7 @@ list.array[0] = "hello";
 </tr>
 <tr></tr><tr>
 <td>
-<a href="https://github.com/KeeVeeGames/quicksort.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml"></a>
+<a href="https://github.com/KeeVeeGames/foreach.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/banner_300px-2-150x150.png" alt="foreach.gml"></a>
 </td>
 <td>
 
@@ -59,7 +59,7 @@ foreach(collection as (item) {
 </td>
 <tr></tr><tr>
 <td>
-<a href="https://github.com/KeeVeeGames/foreach.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/logo_github-150x150.png" alt="foreach.gml"></a>
+<a href="https://github.com/KeeVeeGames/quicksort.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/logo_github-150x150.png" alt="foreach.gml"></a>
 </td>
 <td>
 
