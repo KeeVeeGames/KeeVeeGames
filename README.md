@@ -29,7 +29,7 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 </td>
 <td>
 
-List struct based on array (GC-friendly) for GameMaker Studio 2.3+. Accessor, list functions (add, remove, insert, sort, reverse, etc.) and reference as array. Example:
+List struct based on array (GC-friendly) for GameMaker Studio 2.3+. Accessor, ds_list functions (add, remove, insert, sort, reverse, etc.) and reference as array. Example:
 
 ```js
 list = new ArrayList();
