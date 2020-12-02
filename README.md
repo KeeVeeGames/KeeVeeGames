@@ -33,8 +33,8 @@ The most complete list class for GameMaker Studio 2.3+. GC-friendly, `[]` access
 
 ```js
 list = new ArrayList();
-list.add("howdy", "ho", "world", "!").remove_at(1); // method chaining is also supported
 
+list.add("howdy", "ho", "world", "!").remove_at(1); // method chaining is also supported
 list.array[0] = "hello";
 ```
 
