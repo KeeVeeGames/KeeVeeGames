@@ -48,7 +48,7 @@ list.array[0] = "hello";
 </td>
 <td>
 
-Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
+Deep clone class instances, anonymous structs and arrays nested in any order!
 
 ```js
 var thing = new Class();
