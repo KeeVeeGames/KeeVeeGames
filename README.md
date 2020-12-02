@@ -44,6 +44,23 @@ list.array[0] = "hello";
 </tr>
 <tr></tr><tr>
 <td>
+<a href="https://github.com/KeeVeeGames/DeepCopy.gml"><img src="https://keevee.games/wp-content/uploads/2020/12/logo-150x150.png" alt="DeepCopy.gml"></a>
+</td>
+<td>
+
+Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
+
+```js
+var thing = new Class();
+thing.something = { first : [0, 1, 2], second : [3, 4, 5] };
+
+// will return a new Class instance with the identical values but new references
+var new_thing = deep_copy(thing);
+```
+</td>
+</tr>
+<tr></tr><tr>
+<td>
 <a href="https://github.com/KeeVeeGames/foreach.gml"><img src="https://keevee.games/wp-content/uploads/2020/10/logo-1-150x150.png" alt="foreach.gml"></a>
 </td>
 <td>
@@ -55,15 +72,6 @@ foreach(collection as (item) {
     // do things with item
 });
 ```
-
-</td>
-<tr></tr><tr>
-<td>
-<a href="https://github.com/KeeVeeGames/quicksort.gml"><img src="https://keevee.games/wp-content/uploads/2020/09/logo_github-150x150.png" alt="foreach.gml"></a>
-</td>
-<td>
-
-array_sort function using a modified quicksort algorithm, for GameMaker Studio 2.2.
 
 </td>
 </tr>
