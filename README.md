@@ -7,7 +7,7 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 <img align="right" alt="GIF" src="http://keevee.games/wp-content/uploads/2019/06/keeveelogo.gif" width="33%"/>
 
 - 👨‍💻 Currently working on GooWee.gml [<sup>?</sup>](#! "Advanced and clean GUI framework inspired by WPF and Unity GUI") and GmProto [<sup>?</sup>](#! "Protobuf / flatbuffers-esque serialization protocol")
-- 🕹 Producer and Lead Programmer of [Close Your Eyes]([https://twitter.com/CraftisLegacy](https://twitter.com/KeeVeeGames))
+- 🕹 Producer and Lead Programmer of [Close Your Eyes](https://twitter.com/KeeVeeGames)
 - 📦 Assets I made: on [Marketplace](https://marketplace.yoyogames.com/publishers/1227/keevee-games) and [Itch.io](https://musnik.itch.io/)
 - 💾 Other languages I know and work with: C++, C#, Java, Javascript, etc.
 - 📖 Visit my [Portfolio](https://forum.yoyogames.com/index.php?threads/keevee-games-gml-programming-and-game-development-services.22402/) and [Showcase](https://twitter.com/i/events/1137457904213286913)
