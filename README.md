@@ -59,6 +59,18 @@ var new_thing = deep_copy(thing);
 </tr>
 <tr></tr><tr>
 <td>
+<a href="https://github.com/KeeVeeGames/Exception.gml"><img src="https://keevee.games/wp-content/uploads/2023/05/logo-150x150.png" alt="DeepCopy.gml"></a>
+</td>
+<td>
+
+Base class for custom exceptions replicating a structure of system exceptions and adding better support of [try-catch](https://manual-en.yoyogames.com/GameMaker_Language/GML_Overview/Language_Features/try_catch_finally.htm) and [exception_unhandled_handler](https://manual-en.yoyogames.com/GameMaker_Language/GML_Reference/Debugging/exception_unhandled_handler.htm) for these custom exceptions.
+
+The class is generating all the necessary exception fields and populates data for `script`, `line` and `stacktrace` ones. Makes output on error windows nicer and more meaningful on handled exceptions. Also adds better support for YYC.
+
+</td>
+</tr>
+<tr></tr><tr>
+<td>
 <a href="https://github.com/KeeVeeGames/foreach.gml"><img src="https://keevee.games/wp-content/uploads/2020/10/logo-1-150x150.png" alt="foreach.gml"></a>
 </td>
 <td>
