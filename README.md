@@ -87,3 +87,5 @@ foreach(collection as (item) {
 </tr>
 </tbody>
 </table>
+
+<sub>Contributions: [GameMaker-HTML5](https://github.com/YoYoGames/GameMaker-HTML5), [GMEdit](https://github.com/YellowAfterlife/GMEdit), [tex-pack](https://github.com/GameMakerDiscord/tex-pack), [buffer-zlib](https://github.com/YAL-GameMaker/buffer_zlib).</sub>
