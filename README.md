@@ -49,8 +49,8 @@ list.array[0] = "hello";
 Create a deep copy of Sequence and modify its properties in-game without changing the original resource! Useful for using sequences as templates for graphics elements and UI with changeable placholders.
 
 ```js
-var seq_new = sequence_duplicate(seq_orig);                         // create sequence duplicate
-seq_new.tracks[0].keyframes[0].channels[0].text = "Hello World";    // change new sequence's property
+var seq_new = sequence_duplicate(seq_orig);
+seq_new.tracks[0].keyframes[0].channels[0].text = "Hello World";
 // this will not change the original sequence property!
 ```
 
