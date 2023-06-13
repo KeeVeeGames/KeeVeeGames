@@ -29,7 +29,7 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time GameMaker
 </td>
 <td>
 
-The most complete list class for GameMaker Studio 2.3+. GC-friendly, `[]` accessor, 50+ functions (add, remove, insert, contains, find, sort, shuffle, reverse, copy, clone, etc.) and reference as array. Example:
+The most complete list class for GameMaker Studio 2.3+. GC-friendly, `[]` accessor, 50+ functions (add, remove, insert, contains, find, sort, shuffle, reverse, copy, clone, etc.) and reference as array.
 
 ```js
 list = new ArrayList();
