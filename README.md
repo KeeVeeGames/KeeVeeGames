@@ -10,7 +10,7 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time professio
 - 🕹 Producer and Lead Programmer of [Close Your Eyes](https://twitter.com/KeeVeeGames)
 - 📦 Assets I made: on [Marketplace](https://marketplace.yoyogames.com/publishers/1227/keevee-games) and [Itch.io](https://musnik.itch.io/)
 - 💾 Other languages I know and work with: C++, C#, Javascript, GLSL, Java, etc.
-- 📖 Visit my [Portfolio](https://forum.yoyogames.com/index.php?threads/keevee-games-gml-programming-and-game-development-services.22402/) and [Showcase](https://twitter.com/i/events/1137457904213286913)
+- 📖 Visit my [Portfolio](https://forum.yoyogames.com/index.php?threads/keevee-games-gml-programming-and-game-development-services.22402/) and [Showcase](https://twitter.com/KeeVeeGames/timelines/1620165755814780931)
 - 📫 Contact to hire me or ask questions: support@keevee.games
 
 <sub>Contributions: [GameMaker-HTML5](https://github.com/YoYoGames/GameMaker-HTML5), [GMEdit](https://github.com/YellowAfterlife/GMEdit), [painfully-learned-lessons](https://github.com/JujuAdams/painfully-learned-lessons), [tex-pack](https://github.com/GameMakerDiscord/tex-pack), [buffer-zlib](https://github.com/YAL-GameMaker/buffer_zlib).</sub>
