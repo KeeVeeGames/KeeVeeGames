@@ -27,7 +27,7 @@ I am Nikita Musatov (also know as MusNik and KeeVee Games) a full-time professio
 <tbody>
 <tr>
 <td>
-<a href="https://github.com/KeeVeeGames/ArrayList.gml" style="line-height: 1;"><img src="https://keevee.games/wp-content/uploads/2020/10/logo-150x150.png" alt="ArrayList.gml""></a>
+<a href="https://github.com/KeeVeeGames/ArrayList.gml" style="line-height: 1;"><img src="https://keevee.games/wp-content/uploads/2020/10/logo-150x150.png" alt="ArrayList.gml"></a>
 </td>
 <td>
 
