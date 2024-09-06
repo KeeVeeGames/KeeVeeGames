@@ -2,14 +2,14 @@
 
 [![Donate](https://img.shields.io/badge/donate-%E2%9D%A4-blue.svg)](https://musnik.itch.io/donate-me) [![Twitter Follow](https://img.shields.io/twitter/follow/KeeVeeGames?label=Follow&logo=twitter)](https://twitter.com/intent/user?screen_name=KeeVeeGames)
 
-I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professional GameMaker developer located in Armenia. I do videogames, assets for GML programmers, open-source libraries/examples, and contract freelance work! Worked on [ScreenPlay](https://store.steampowered.com/app/1830700/ScreenPlay/), [Norland](https://store.steampowered.com/app/1857090/Norland/), [Voidigo](https://store.steampowered.com/app/1304680/Voidigo/), [RetroMania Wrestling](https://www.retromaniawrestling.com/), [Cookie Swirl World](https://apps.apple.com/us/app/cookie-swirl-world/id1445080198) and [other](https://www.linkedin.com/in/musnik/details/experience/) projects.
+I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professional GameMaker developer located in Armenia. I do videogames, assets for GML programmers, open-source libraries/examples, and contract freelance work! Worked on [Norland](https://store.steampowered.com/app/1857090/Norland/), [ScreenPlay](https://store.steampowered.com/app/1830700/ScreenPlay/), [Voidigo](https://store.steampowered.com/app/1304680/Voidigo/), [RetroMania Wrestling](https://www.retromaniawrestling.com/), [Cookie Swirl World](https://apps.apple.com/us/app/cookie-swirl-world/id1445080198) and [other](https://www.linkedin.com/in/musnik/details/experience/) projects.
 
 <img align="right" alt="GIF" src="http://keevee.games/wp-content/uploads/2019/06/keeveelogo.gif" width="33%"/>
 
 - 👨‍💻 Currently working on GooWee.gml [<sup>?</sup>](#! "Advanced and clean GUI framework inspired by WPF and Unity GUI") and GmProto [<sup>?</sup>](#! "Protobuf / flatbuffers-esque serialization protocol")
 - 🕹 Producer and Lead Programmer of [Close Your Eyes](https://twitter.com/KeeVeeGames)
 - 📦 Assets I made: on [Marketplace](https://marketplace.yoyogames.com/publishers/1227/keevee-games) and [Itch.io](https://musnik.itch.io/)
-- 💾 Other languages I know and work with: C++, C#, Javascript, GLSL, Java, etc.
+- 💾 Other languages I know and work with: C#, GLSL, C/C++, Javascript, Java, Objective-C, etc.
 - 📖 Visit my [Portfolio](https://forum.yoyogames.com/index.php?threads/keevee-games-gml-programming-and-game-development-services.22402/) and [Showcase](https://twitter.com/KeeVeeGames/timelines/1620165755814780931)
 - 📫 Contact to hire me or ask questions: support@keevee.games
 
