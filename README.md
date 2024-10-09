@@ -42,7 +42,7 @@ I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professi
 </td>
 <td>
 
-GameMaker shader preprocessor for code reuse! Import and inline directives, generating shader variants.
+GameMaker shader preprocessor for code reuse! Import, inline and generate shader variants.
 
 ```glsl
 #pragma shady: import(shader_name)
