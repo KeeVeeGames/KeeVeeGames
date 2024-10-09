@@ -38,17 +38,19 @@ I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professi
 </tr>
 <tr></tr><tr>
 <td>
-<a href="https://github.com/KeeVeeGames/ArrayList.gml"><img src="https://keevee.games/wp-content/uploads/2020/10/logo-150x150.png" alt="ArrayList.gml"></a>
+<a href="https://github.com/KeeVeeGames/Shady.gml"><img src="https://keevee.games/wp-content/uploads/2024/10/logo-300x300.png" alt="Shady.gml"></a>
 </td>
 <td>
 
-The most complete list class for GameMaker Studio 2.3+. GC-friendly, `[]` accessor, 50+ functions (add, remove, insert, contains, find, sort, shuffle, reverse, copy, clone, etc.) and reference as array.
+GameMaker shader preprocessor for code reuse! Import and inline directives, generating shader variants.
 
-```js
-list = new ArrayList();
+```glsl
+#pragma shady: import(shader_name)
+#pragma shady: import(shader_name.identifier_name)
 
-list.add("howdy", "ho", "world", "!").remove_at(1); // method chaining is also supported
-list.array[0] = "hello";
+#pragma shady: inline(shader_name.MACRO_NAME)
+
+#pragma shady: variant(shader_name, [KEYWORD_NAME1], [KEYWORD_NAME2], ...)
 ```
 
 </td>
@@ -71,6 +73,18 @@ seq_new.tracks[0].keyframes[0].channels[0].text = "Hello World";
 </tr>
 <tr></tr><tr>
 <td>
+<a href="https://github.com/KeeVeeGames/Exception.gml"><img src="https://keevee.games/wp-content/uploads/2023/05/logo-150x150.png" alt="DeepCopy.gml"></a>
+</td>
+<td>
+
+Base class for custom exceptions replicating a structure of system exceptions and adding better support of [try-catch](https://manual-en.yoyogames.com/GameMaker_Language/GML_Overview/Language_Features/try_catch_finally.htm) and [exception_unhandled_handler](https://manual-en.yoyogames.com/GameMaker_Language/GML_Reference/Debugging/exception_unhandled_handler.htm) for these custom exceptions.
+
+The class is generating all the necessary exception fields and populates data for `script`, `line` and `stacktrace` ones. Makes output on error windows nicer and more meaningful on handled exceptions. Also adds better support for YYC.
+
+</td>
+</tr>
+<tr></tr><tr>
+<td>
 <a href="https://github.com/KeeVeeGames/DeepCopy.gml"><img src="https://keevee.games/wp-content/uploads/2020/12/logo-150x150.png" alt="DeepCopy.gml"></a>
 </td>
 <td>
@@ -88,13 +102,18 @@ var new_thing = deep_copy(thing);
 </tr>
 <tr></tr><tr>
 <td>
-<a href="https://github.com/KeeVeeGames/Exception.gml"><img src="https://keevee.games/wp-content/uploads/2023/05/logo-150x150.png" alt="DeepCopy.gml"></a>
+<a href="https://github.com/KeeVeeGames/ArrayList.gml"><img src="https://keevee.games/wp-content/uploads/2020/10/logo-150x150.png" alt="ArrayList.gml"></a>
 </td>
 <td>
 
-Base class for custom exceptions replicating a structure of system exceptions and adding better support of [try-catch](https://manual-en.yoyogames.com/GameMaker_Language/GML_Overview/Language_Features/try_catch_finally.htm) and [exception_unhandled_handler](https://manual-en.yoyogames.com/GameMaker_Language/GML_Reference/Debugging/exception_unhandled_handler.htm) for these custom exceptions.
+The most complete list class for GameMaker Studio 2.3+. GC-friendly, `[]` accessor, 50+ functions (add, remove, insert, contains, find, sort, shuffle, reverse, copy, clone, etc.) and reference as array.
 
-The class is generating all the necessary exception fields and populates data for `script`, `line` and `stacktrace` ones. Makes output on error windows nicer and more meaningful on handled exceptions. Also adds better support for YYC.
+```js
+list = new ArrayList();
+
+list.add("howdy", "ho", "world", "!").remove_at(1); // method chaining is also supported
+list.array[0] = "hello";
+```
 
 </td>
 </tr>
