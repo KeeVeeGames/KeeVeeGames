@@ -33,7 +33,7 @@ I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professi
 
 **OKColor** is a color management library for GameMaker written in pure GML that implements the new "industry standard" [OKLab](https://bottosson.github.io/posts/oklab/)/[OKLCH](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl) perceptual color models, that give better results than standard RGB/HSV. It's simple to use with only one [`OKColor`](https://github.com/KeeVeeGames/OKColor.gml/wiki/API-Reference) class and a bunch of methods providing [setting the color](https://github.com/KeeVeeGames/OKColor.gml/wiki/API-Reference#setters), [models conversion](https://github.com/KeeVeeGames/OKColor.gml/wiki/API-Reference#getters), [mixing](https://github.com/KeeVeeGames/OKColor.gml/wiki/API-Reference#mixing) and [getting the color for rendering](https://github.com/KeeVeeGames/OKColor.gml/wiki/API-Reference#color-getters).
 
-<a href="https://github.com/KeeVeeGames/OKColor.gml#why-to-use"><img src="https://github.com/KeeVeeGames/KeeVeeGames/assets/10993317/c0f96311-b679-414e-8b8f-c97e1cdde88e" alt="Example"></a>
+<a href="https://github.com/KeeVeeGames/OKColor.gml?#why-to-use"><img src="https://github.com/KeeVeeGames/KeeVeeGames/assets/10993317/c0f96311-b679-414e-8b8f-c97e1cdde88e" alt="Example"></a>
 </td>
 </tr>
 <tr></tr><tr>
