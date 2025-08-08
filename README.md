@@ -2,7 +2,7 @@
 
 [![Donate](https://img.shields.io/badge/donate-%E2%9D%A4-blue.svg)](https://musnik.itch.io/donate-me) [![Twitter Follow](https://img.shields.io/twitter/follow/KeeVeeGames?label=Follow&logo=twitter)](https://twitter.com/intent/user?screen_name=KeeVeeGames)
 
-I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professional GameMaker developer located in Armenia. I do videogames, assets for GML programmers, open-source libraries/examples, and contract freelance work! Worked on [Norland](https://store.steampowered.com/app/1857090/Norland/), [ScreenPlay](https://store.steampowered.com/app/1830700/ScreenPlay/), [Voidigo](https://store.steampowered.com/app/1304680/Voidigo/), [RetroMania Wrestling](https://www.retromaniawrestling.com/), [Cookie Swirl World](https://dyadgames.com/games/cookie-swirl-world/), [Numbos]{https://gutpunchstudios.com/} and [other](https://www.linkedin.com/in/musnik/details/experience/) projects.
+I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professional GameMaker developer located in Armenia. I do videogames, assets for GML programmers, open-source libraries/examples, and contract freelance work! Worked on [Norland](https://store.steampowered.com/app/1857090/Norland/), [ScreenPlay](https://store.steampowered.com/app/1830700/ScreenPlay/), [Voidigo](https://store.steampowered.com/app/1304680/Voidigo/), [RetroMania Wrestling](https://www.retromaniawrestling.com/), [Cookie Swirl World](https://dyadgames.com/games/cookie-swirl-world/), [Numbos](https://gutpunchstudios.com/) and [other](https://www.linkedin.com/in/musnik/details/experience/) projects.
 
 <img align="right" alt="GIF" src="http://keevee.games/wp-content/uploads/2019/06/keeveelogo.gif" width="33%"/>
 
