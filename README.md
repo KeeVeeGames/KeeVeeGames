@@ -9,7 +9,7 @@ I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professi
 - 👨‍💻 Currently working on [Tinkerlands](https://store.steampowered.com/app/2617700/Tinkerlands/)
 - 🕹 Producer and Lead Programmer of [See It Through](https://twitter.com/KeeVeeGames)
 - 📦 Assets I made: on [Itch.io](https://musnik.itch.io/)
-- 💾 Other languages I know and work with: C#, GLSL, C/C++, Javascript, Java, Objective-C, etc.
+- 💾 Other languages I know and work with: C#, GLSL, C/C++, JavaScript, Java, Objective-C, etc.
 - 📖 Visit my [Portfolio](https://forum.yoyogames.com/index.php?threads/keevee-games-gml-programming-and-game-development-services.22402/) and [Showcase](https://twitter.com/KeeVeeGames/timelines/1620165755814780931)
 - 📫 Contact to hire me or ask questions: support@keevee.games
 
