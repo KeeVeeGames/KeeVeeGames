@@ -2,7 +2,7 @@
 
 [![Donate](https://img.shields.io/badge/donate-%E2%9D%A4-blue.svg)](https://musnik.itch.io/donate-me) [![Twitter Follow](https://img.shields.io/twitter/follow/KeeVeeGames?label=Follow&logo=twitter)](https://twitter.com/intent/user?screen_name=KeeVeeGames)
 
-I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professional GameMaker developer and technical artist located in Armenia. I do videogames, assets for GML programmers, open-source libraries/examples, and contract freelance work! Worked on [Norland](https://store.steampowered.com/app/1857090/Norland/), [Voidigo](https://store.steampowered.com/app/1304680/Voidigo/), [RetroMania Wrestling](https://www.retromaniawrestling.com/), [ScreenPlay](https://store.steampowered.com/app/1830700/ScreenPlay/), [Cookie Swirl World](https://dyadgames.com/games/cookie-swirl-world/), [Numbos](https://gutpunchstudios.com/) and [other](https://www.linkedin.com/in/musnik/details/experience/) projects.
+I am Nikita Musatov (also known as MusNik and KeeVee Games), a full-time professional GameMaker developer and technical artist located in Armenia. I do videogames, assets for GML programmers, open-source libraries/examples, and contract freelance work! Worked on [Norland](https://store.steampowered.com/app/1857090/Norland/), [Voidigo](https://store.steampowered.com/app/1304680/Voidigo/), [RetroMania Wrestling](https://www.retromaniawrestling.com/), [ScreenPlay](https://store.steampowered.com/app/1830700/ScreenPlay/), [Cookie Swirl World](https://dyadgames.com/games/cookie-swirl-world/), [Numbos](https://gutpunchstudios.com/) and [other](https://www.linkedin.com/in/musnik/details/experience/) projects.
 
 <img align="right" alt="GIF" src="http://keevee.games/wp-content/uploads/2019/06/keeveelogo.gif" width="33%"/>
 
@@ -13,7 +13,7 @@ I am Nikita Musatov (also known as MusNik and KeeVee Games) a full-time professi
 - 📖 Visit my [Portfolio](https://forum.yoyogames.com/index.php?threads/keevee-games-gml-programming-and-game-development-services.22402/) and [Showcase](https://twitter.com/KeeVeeGames/timelines/1620165755814780931)
 - 📫 Contact to hire me or ask questions: support@keevee.games
 
-<sub>Contributions: [YoYoGames/GameMaker Runtime](https://github.com/YoYoGames), [YoYoGames/GameMaker-HTML5](https://github.com/YoYoGames/GameMaker-HTML5), [YellowAfterlife/GMEdit](https://github.com/YellowAfterlife/GMEdit), [painfully-learned-lessons](https://github.com/JujuAdams/painfully-learned-lessons), [tex-pack](https://github.com/GameMakerDiscord/tex-pack), [buffer-zlib](https://github.com/YAL-GameMaker/buffer_zlib), [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark).</sub>
+<sub>Contributions: [ElectronicArts/ShaderToHuman](https://github.com/electronicarts/ShaderToHuman), [YoYoGames/GameMaker-Runtime](https://github.com/YoYoGames), [YoYoGames/GameMaker-HTML5](https://github.com/YoYoGames/GameMaker-HTML5), [YellowAfterlife/GMEdit](https://github.com/YellowAfterlife/GMEdit), [painfully-learned-lessons](https://github.com/JujuAdams/painfully-learned-lessons), [tex-pack](https://github.com/GameMakerDiscord/tex-pack), [buffer-zlib](https://github.com/YAL-GameMaker/buffer_zlib), [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark).</sub>
 
 ### Notable repos:
 
