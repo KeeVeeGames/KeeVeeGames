@@ -2,11 +2,11 @@
 
 [![Donate](https://img.shields.io/badge/donate-%E2%9D%A4-blue.svg)](https://musnik.itch.io/donate-me) [![Twitter Follow](https://img.shields.io/twitter/follow/KeeVeeGames?label=Follow&logo=twitter)](https://twitter.com/intent/user?screen_name=KeeVeeGames)
 
-I am Nikita Musatov (also known as MusNik and KeeVee Games), a full-time professional GameMaker developer and technical artist located in Armenia. I do videogames, assets for GML programmers, open-source libraries/examples, and contract freelance work! Worked on [Norland](https://store.steampowered.com/app/1857090/Norland/), [Voidigo](https://store.steampowered.com/app/1304680/Voidigo/), [RetroMania Wrestling](https://www.retromaniawrestling.com/), [ScreenPlay](https://store.steampowered.com/app/1830700/ScreenPlay/), [Cookie Swirl World](https://dyadgames.com/games/cookie-swirl-world/), [Numbos](https://gutpunchstudios.com/) and [other](https://www.linkedin.com/in/musnik/details/experience/) projects.
+I am Nikita Musatov (also known as MusNik and KeeVee Games), a full-time professional GameMaker developer and technical artist located in Armenia. I do videogames, assets for GML programmers, open-source libraries/examples, and contract freelance work! Worked on [Norland](https://store.steampowered.com/app/1857090/Norland/), [Tinkerlands](https://store.steampowered.com/app/2617700/Tinkerlands/), [Voidigo](https://store.steampowered.com/app/1304680/Voidigo/), [RetroMania Wrestling](https://www.retromaniawrestling.com/), [ScreenPlay](https://store.steampowered.com/app/1830700/ScreenPlay/), [Cookie Swirl World](https://dyadgames.com/games/cookie-swirl-world/), [Numbos](https://gutpunchstudios.com/) and [other](https://www.linkedin.com/in/musnik/details/experience/) projects.
 
 <img align="right" alt="GIF" src="http://keevee.games/wp-content/uploads/2019/06/keeveelogo.gif" width="33%"/>
 
-- 👨‍💻 Currently working on [Tinkerlands](https://store.steampowered.com/app/2617700/Tinkerlands/)
+- 👨‍💻 Currently working on [The Crab is Walking](https://store.steampowered.com/app/5145940/The_Crab_is_Walking/)
 - 🕹 Producer and Lead Programmer of [See It Through](https://twitter.com/KeeVeeGames)
 - 📦 Assets I made: on [Itch.io](https://musnik.itch.io/)
 - 💾 Other languages I know and work with: C#, GLSL, C/C++, JavaScript, Java, Objective-C, etc.
