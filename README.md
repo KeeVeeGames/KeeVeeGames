@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Donate](https://img.shields.io/badge/donate-%E2%9D%A4-blue.svg)](https://musnik.itch.io/donate-me) [![Twitter Follow](https://img.shields.io/twitter/follow/KeeVeeGames?label=Follow&logo=twitter)](https://twitter.com/intent/user?screen_name=KeeVeeGames)
+[![Donate](https://img.shields.io/badge/donate-%E2%9D%A4-blue.svg)](https://musnik.itch.io/donate) [![Twitter Follow](https://img.shields.io/twitter/follow/KeeVeeGames?label=Follow&logo=twitter)](https://twitter.com/intent/user?screen_name=KeeVeeGames)
 
 I am Nikita Musatov (also known as MusNik and KeeVee Games), a full-time professional GameMaker developer and technical artist located in Armenia. I do videogames, assets for GML programmers, open-source libraries/examples, and contract freelance work! Worked on [Norland](https://store.steampowered.com/app/1857090/Norland/), [Tinkerlands](https://store.steampowered.com/app/2617700/Tinkerlands/), [Voidigo](https://store.steampowered.com/app/1304680/Voidigo/), [RetroMania Wrestling](https://www.retromaniawrestling.com/), [ScreenPlay](https://store.steampowered.com/app/1830700/ScreenPlay/), [Cookie Swirl World](https://dyadgames.com/games/cookie-swirl-world/), [Numbos](https://gutpunchstudios.com/) and [other](https://www.linkedin.com/in/musnik/details/experience/) projects.
 
